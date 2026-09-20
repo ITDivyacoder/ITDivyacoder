@@ -1,35 +1,196 @@
-<h1 align="center">Hi 👋, I'm Divya Kumari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!-- ===================================================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itdivyacoder&label=Profile%20views&color=0e75b6&style=flat" alt="itdivyacoder" /> </p>
+<!--                 DIVYA KUMARI | GITHUB                 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itdivyacoder" alt="itdivyacoder" /></a> </p>
+<!-- ===================================================== -->
 
-- 🔭 I’m currently working on [Registration Form](https://github.com/ITDivyacoder/-registration-form)
+<div align="center">
 
-- 🌱 I’m currently learning **Backend**
+# 👋 Hi, I'm Divya Kumari
 
-- 👯 I’m looking to collaborate on [Login Form](https://github.com/ITDivyacoder/Login-Form)
+### 💻 Full Stack Developer | Web Development Enthusiast
 
-- 🤝 I’m looking for help with [Login Form](https://github.com/ITDivyacoder/Login-Form)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Creative+Web+Projects;Learning+Backend+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-- 💬 Ask me about **HTML,C#,JAVA**
-
-- 📫 How to reach me **div9507113@gmail.com,**
-
-- ⚡ Fun fact **I Wanted to become Full Stack Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/divya7230332510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divya7230332510" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divya-kumari-243632336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-kumari-243632336" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ITDivyacoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ITDivyacoder?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/ITDivyacoder">
+    <img src="https://img.shields.io/badge/GitHub-ITDivyacoder-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/divya-kumari-243632336">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itdivyacoder&show_icons=true&locale=en&layout=compact" alt="itdivyacoder" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itdivyacoder&show_icons=true&locale=en" alt="itdivyacoder" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itdivyacoder&" alt="itdivyacoder" /></p>
+## 👩‍💻 About Me
+
+Hello! I'm **Divya Kumari**, a passionate developer from India who loves creating interactive, user-friendly, and professional web applications.
+
+* 🔭 Currently working on **Student Registration & Login Forms**
+* 🌱 Currently learning **Backend Development**
+* 💻 Interested in **Full Stack Web Development**
+* 👯 Looking to collaborate on web development projects
+* 💬 Ask me about **HTML, CSS, C#, Java, and PHP**
+* 📫 Reach me at **[div9507113@gmail.com](mailto:div9507113@gmail.com)**
+* ⚡ My goal is to become a skilled Full Stack Developer
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php" alt="Programming Languages" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular" alt="Web Development Technologies" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Databases and Development Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my projects that I'm building and improving as I grow as a developer.
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 Student Registration Form
+
+A student registration project focused on collecting and managing student information using web technologies.
+
+**Technologies:** HTML, CSS, PHP, MySQL
+
+<a href="https://github.com/ITDivyacoder/-registration-form">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Registration Form Project" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🔐 Login Form
+
+A login form project focused on creating a clean and user-friendly authentication interface.
+
+**Focus:** Web Design & Form Development
+
+<a href="https://github.com/ITDivyacoder/Login-Form">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Login Form Project" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ITDivyacoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Divya's GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITDivyacoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+### 🔥 Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ITDivyacoder&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+### 🏆 GitHub Achievements
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ITDivyacoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Profile Trophies" />
+
+</div>
+
+---
+
+## 📦 Repository & Star Statistics
+
+<div align="center">
+
+<a href="https://github.com/ITDivyacoder?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FITDivyacoder&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=blue" alt="Public Repositories" />
+</a>
+
+<a href="https://github.com/ITDivyacoder?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ITDivyacoder/-registration-form?style=for-the-badge&label=Registration%20Form%20Stars&color=yellow" alt="Registration Form Stars" />
+</a>
+
+<a href="https://github.com/ITDivyacoder">
+  <img src="https://img.shields.io/github/followers/ITDivyacoder?style=for-the-badge&label=GitHub%20Followers&color=green" alt="GitHub Followers" />
+</a>
+
+</div>
+
+---
+
+## 📅 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ITDivyacoder&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 📌 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/ITDivyacoder" alt="Divya's GitHub Contribution Calendar" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/divya-kumari-243632336">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://twitter.com/divya7230332510">
+  <img src="https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+</a>
+
+<a href="mailto:div9507113@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Every expert was once a beginner."
+
+⭐ Thanks for visiting my GitHub profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
+
+</div>
