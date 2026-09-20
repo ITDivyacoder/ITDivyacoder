@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itdivyacoder" alt="itdivyacoder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/divya" target="blank"><img src="https://img.shields.io/twitter/follow/divya?logo=twitter&style=for-the-badge" alt="divya" /></a> </p>
-
 - 🔭 I’m currently working on [Registration Form](https://github.com/ITDivyacoder/-registration-form)
 
 - 🌱 I’m currently learning **Backend**
@@ -23,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divya kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya kumari" height="30" width="40" /></a>
+<a href="https://twitter.com/divya7230332510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divya7230332510" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divya-kumari-243632336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-kumari-243632336" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
