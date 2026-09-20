@@ -1,46 +1,32 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# Hi, I'm Divya Kumari 👋
+# 👋 Hi, I'm Divya Kumari
 
-### Full Stack Developer | Web Development Enthusiast
+### Full Stack Developer | Aspiring Software Developer | Tech Enthusiast
 
-*Building modern web experiences, one project at a time.*
+Building responsive web applications and exploring backend development.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=ITDivyacoder&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 
-<p>
-  <a href="https://github.com/ITDivyacoder">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ITDivyacoder&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<br/>
+
+<a href="https://github.com/ITDivyacoder">
+  <img src="https://img.shields.io/github/followers/ITDivyacoder?label=Followers&style=for-the-badge&logo=github&color=6C63FF" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/ITDivyacoder?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-I'm Divya Kumari from India, passionate about web development and building useful, user-friendly applications.
+## 💫 About Me
 
-* 🔭 Working on Registration & Login Form projects
-* 🌱 Learning Backend Development
-* 💻 Interested in Full Stack Development
-* 💬 Ask me about HTML, CSS, Java, C# & PHP
-* 📧 Email: **[div9507113@gmail.com](mailto:div9507113@gmail.com)**
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,php,mysql,java,cs,c,cpp,git,github,vscode&perline=7" alt="Technologies and Tools"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td wi
+* 👩‍💻 I'm a passionate developer from India.
+* 🌱 Currently learning **Backend**
