@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Kumari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itdivyacoder&label=Profile%20views&color=0e75b6&style=flat" alt="itdivyacoder" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itdivyacoder" alt="itdivyacoder" /></a> </p>
 
 - 🔭 I’m currently working on [Registration Form](https://github.com/ITDivyacoder/-registration-form)
 
